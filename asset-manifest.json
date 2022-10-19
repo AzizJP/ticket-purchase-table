@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ticket-purchase-table/static/css/main.2611071a.css",
+    "main.js": "/ticket-purchase-table/static/js/main.bc6f456e.js",
+    "index.html": "/ticket-purchase-table/index.html",
+    "main.2611071a.css.map": "/ticket-purchase-table/static/css/main.2611071a.css.map",
+    "main.bc6f456e.js.map": "/ticket-purchase-table/static/js/main.bc6f456e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2611071a.css",
+    "static/js/main.bc6f456e.js"
+  ]
+}
